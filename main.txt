@@ -1,3 +1,2 @@
 -- VoidClient GitHub button test
-print("Click Test Sound to play a Windows notification.")
-sound_button()
+print("Click Test Sound to play a Windows notificationjkölkjlöklöklöklöklöklöklö.")
